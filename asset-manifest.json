@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://dandara-aryadne.github.io/csb-rczv5/static/js/main.f4f9f8b1.chunk.js",
+    "main.js.map": "https://dandara-aryadne.github.io/csb-rczv5/static/js/main.f4f9f8b1.chunk.js.map",
+    "runtime-main.js": "https://dandara-aryadne.github.io/csb-rczv5/static/js/runtime-main.060d8ff2.js",
+    "runtime-main.js.map": "https://dandara-aryadne.github.io/csb-rczv5/static/js/runtime-main.060d8ff2.js.map",
+    "static/js/2.d773ec9c.chunk.js": "https://dandara-aryadne.github.io/csb-rczv5/static/js/2.d773ec9c.chunk.js",
+    "static/js/2.d773ec9c.chunk.js.map": "https://dandara-aryadne.github.io/csb-rczv5/static/js/2.d773ec9c.chunk.js.map",
+    "index.html": "https://dandara-aryadne.github.io/csb-rczv5/index.html",
+    "static/js/2.d773ec9c.chunk.js.LICENSE.txt": "https://dandara-aryadne.github.io/csb-rczv5/static/js/2.d773ec9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.060d8ff2.js",
+    "static/js/2.d773ec9c.chunk.js",
+    "static/js/main.f4f9f8b1.chunk.js"
+  ]
+}
